@@ -1,0 +1,72 @@
+{
+  "playlist_key": "26_Apr_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugvq_98JJjJzUYbM8ZQu426",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224274206483"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "nP-GQGNvfbw",
+      "youtube_title": "Falling (FALLING)",
+      "youtube_channel": "존박 John Park",
+      "lyric_line": "날 잡아줄 수 없어도 날 감싸줄 수 없나요"
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "Q4AE3ub4nBM",
+      "youtube_title": "RUDE!",
+      "youtube_channel": "Hearts2Hearts",
+      "lyric_line": "이게 나라구 아무렇게나 추는 춤"
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "B5CDl20DMYA",
+      "youtube_title": "Karma",
+      "youtube_channel": "달의하루 - Topic",
+      "lyric_line": "바라지 않는 거라도 좋아"
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "HLTQoCRBfxc",
+      "youtube_title": "TICK TOCK (Prod. by ZICO, Crush)",
+      "youtube_channel": "HAON - Topic",
+      "lyric_line": "시간은 나를 특별히 취급하지"
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "eloeoLmpiMA",
+      "youtube_title": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
+      "youtube_channel": "Lil Nas X",
+      "lyric_line": "So can we keep it going, keep it going?"
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "CDQyTBCQrj8",
+      "youtube_title": "북향 Hemi's room (Feat. 오혁 OHHYUK)",
+      "youtube_channel": "Dynamicduo - 다이나믹 듀오",
+      "lyric_line": "네가 필요하다고 말하면 과연 네가 와줄까"
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "EAyY3_xWZYY",
+      "youtube_title": "bad",
+      "youtube_channel": "wave to earth",
+      "lyric_line": "How could my day be bad when I'm with you?"
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "eNiPuDEUQpQ",
+      "youtube_title": "Joy, Sorrow, A Beautiful Heart",
+      "youtube_channel": "AKMU",
+      "lyric_line": "쫓아내지 말고 품어주어라"
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": ""
+  }
+}

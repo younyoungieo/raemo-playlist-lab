@@ -1,0 +1,32 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# uv
+.uv/
+
+# Raw cache (re-fetchable, no need to commit)
+data/raw/
+
+# Datasets (commit selectively when ready)
+# data/datasets/   ← uncomment to also ignore final datasets
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
