@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_May_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugP63T_BL1o8lcB21Zcbvrh",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223863405162"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "LF2LGaCsMbc",
+      "youtube_title": "MILLION DOLLAR BABY",
+      "youtube_channel": "Tommy Richman",
+      "lyric_lines": [
+        "Do it, baby, do what I should think"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "ObQtlfjiUZ0",
+      "youtube_title": "It's OK",
+      "youtube_channel": "장기하와 얼굴들 (Kiha & The Faces)",
+      "lyric_lines": [
+        "당신은 안 좋아해도 괜찮아요"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "aWwbjS-7f6U",
+      "youtube_title": "The Smell's Gone",
+      "youtube_channel": "장기하와 얼굴들 (Kiha & The Faces)",
+      "lyric_lines": [
+        "빠빠빠빠빠빠빠 빠빱빠빱빱"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "rv7f1RqCoFU",
+      "youtube_title": "NISSAN ALTIMA",
+      "youtube_channel": "Doechii",
+      "lyric_lines": [
+        "I could really give a"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "Emq17wn71jA",
+      "youtube_title": "Pookie",
+      "youtube_channel": "FIFTY FIFTY Official",
+      "lyric_lines": [
+        "Don’t matter what I do"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "aFzh-5xPgdc",
+      "youtube_title": "세상 따위 F****** World (Feat. BewhY)",
+      "youtube_channel": "래원",
+      "lyric_lines": [
+        "핸드폰의 유심도 꿀꺽"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "9PN3LHecB-w",
+      "youtube_title": "Woo Woo My Love",
+      "youtube_channel": "음성녹음音聲錄音RecordTheVoiceMessage",
+      "lyric_lines": [
+        "You know I loved you a lot"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 2줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

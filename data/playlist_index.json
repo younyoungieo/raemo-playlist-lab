@@ -5,7 +5,9 @@
     "title": "26_Apr_1st 망설임은 항상 내 편",
     "date": "2026. 5. 4.",
     "log_no": "224274206483",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "26_Mar_1st",
@@ -13,7 +15,9 @@
     "title": "26_Mar_1st 늦게 왔어도",
     "date": "2026. 4. 3.",
     "log_no": "224239171060",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "26_Feb_1st",
@@ -21,7 +25,9 @@
     "title": "26_Feb_1st 내가 하는 말 무슨 말인지 아는 사람",
     "date": "2026. 2. 28.",
     "log_no": "224199617209",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "25_Dec_2nd",
@@ -29,7 +35,9 @@
     "title": "25_Dec_2nd & 26_Jan_1st back to the start",
     "date": "2026. 1. 31.",
     "log_no": "224166902602",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 5
   },
   {
     "playlist_key": "25_Dec_1st",
@@ -37,15 +45,19 @@
     "title": "25_Dec_1st Please Don’t Kill My Vibe",
     "date": "2025. 12. 11.",
     "log_no": "224106331503",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
-    "playlist_key": "",
+    "playlist_key": "25_Nov_1st",
     "blog_url": "https://blog.naver.com/janjanjae/224078007826",
-    "title": "일종의 블챌",
+    "title": "25_Nov_1st 일종의 블챌",
     "date": "2025. 11. 16.",
     "log_no": "224078007826",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_Oct_1st",
@@ -53,7 +65,9 @@
     "title": "25_Oct_1st 사이의 생존법",
     "date": "2025. 10. 26.",
     "log_no": "224054168645",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "25_Sep_1st",
@@ -61,7 +75,9 @@
     "title": "25_Sep_1st 어떻게 그렇게 말해",
     "date": "2025. 9. 25.",
     "log_no": "224021543179",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "25_Aug_1st",
@@ -69,7 +85,9 @@
     "title": "25_Aug_1st 끝나기 전에",
     "date": "2025. 8. 31.",
     "log_no": "223989970776",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 8
   },
   {
     "playlist_key": "25_Jul_1st",
@@ -77,7 +95,9 @@
     "title": "25_Jul_1st 솔직하게 지금의 난 별 볼 일 없지만",
     "date": "2025. 7. 16.",
     "log_no": "223936362903",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_Jun_2nd",
@@ -85,7 +105,9 @@
     "title": "25_Jun_2nd 운동할 땐 힙합이지",
     "date": "2025. 6. 25.",
     "log_no": "223911535246",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_Jun_1st",
@@ -93,7 +115,9 @@
     "title": "25_Jun_1st 습관이란 게",
     "date": "2025. 6. 8.",
     "log_no": "223892656492",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_May_1st",
@@ -101,7 +125,9 @@
     "title": "25_May_1st Do what I should think",
     "date": "2025. 5. 12.",
     "log_no": "223863405162",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_Apr_1st",
@@ -109,7 +135,9 @@
     "title": "25_Apr_1st 감성짬뽕",
     "date": "2025. 4. 10.",
     "log_no": "223828825447",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "25_Jan_2nd",
@@ -117,7 +145,9 @@
     "title": "25_Jan_2nd 리리컬과 힙합",
     "date": "2025. 2. 3.",
     "log_no": "223746252951",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Dec_1st",
@@ -125,7 +155,9 @@
     "title": "24_Dec_1st_&_25_Jan_1st 잔상은 그대로 두고 춤춰",
     "date": "2025. 1. 14.",
     "log_no": "223725008803",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Nov_1st",
@@ -133,7 +165,9 @@
     "title": "24_Nov_1st I wanna (what?)",
     "date": "2024. 12. 1.",
     "log_no": "223678596755",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Oct_1st",
@@ -141,7 +175,9 @@
     "title": "24_Oct_1st 오늘의 나는 강하지 않아",
     "date": "2024. 11. 4.",
     "log_no": "223645559089",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Sep_1st",
@@ -149,7 +185,9 @@
     "title": "24_Sep_1st Click Me",
     "date": "2024. 10. 3.",
     "log_no": "223605013258",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Aug_2nd",
@@ -157,7 +195,9 @@
     "title": "24_Aug_2nd You know I love you so",
     "date": "2024. 9. 8.",
     "log_no": "223576535483",
-    "status": "pending"
+    "status": "mismatch",
+    "validation_status": "mismatch",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Aug_1st",
@@ -165,7 +205,9 @@
     "title": "24_Aug_1st 아주 쉽게 잊을 수 있어",
     "date": "2024. 8. 9.",
     "log_no": "223541479491",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Jul_1st",
@@ -173,7 +215,9 @@
     "title": "24_Jul_1st 미친 척하고 춤을 춰봐도",
     "date": "2024. 7. 10.",
     "log_no": "223508461820",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_Jun_1st",
@@ -181,7 +225,9 @@
     "title": "24_Jun_1st Don’t make it bad",
     "date": "2024. 6. 18.",
     "log_no": "223483831811",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_May_2nd",
@@ -189,7 +235,9 @@
     "title": "24_May_2nd 내 곁에만 머물러요 떠나면 안돼요",
     "date": "2024. 6. 5.",
     "log_no": "223469367147",
-    "status": "pending"
+    "status": "built",
+    "validation_status": "ok",
+    "joined_count": 7
   },
   {
     "playlist_key": "24_May_1st",
@@ -197,7 +245,9 @@
     "title": "24_May_1st 모든 게 마음먹기 달렸어 어떤 게 행복한 삶인가요 (아싸!)",
     "date": "2024. 5. 13.",
     "log_no": "223445496942",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Apr_2nd",
@@ -205,7 +255,9 @@
     "title": "24_Apr_2nd 부서지지 마",
     "date": "2024. 4. 23.",
     "log_no": "223425106975",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Apr_1st",
@@ -213,7 +265,9 @@
     "title": "24_Apr_1st All of my good days",
     "date": "2024. 4. 11.",
     "log_no": "223411841245",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Mar_1st",
@@ -221,7 +275,9 @@
     "title": "24_Mar_1st 나랑 놀자",
     "date": "2024. 3. 26.",
     "log_no": "223395467769",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Feb_1st",
@@ -229,7 +285,9 @@
     "title": "24_Feb_1st 내가 늘 바란 건 한 개뿐이야",
     "date": "2024. 2. 23.",
     "log_no": "223362878338",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Jan_2nd",
@@ -237,7 +295,9 @@
     "title": "24_Jan_2nd But love just",
     "date": "2024. 2. 1.",
     "log_no": "223340594367",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "24_Jan_1st",
@@ -245,7 +305,9 @@
     "title": "24_Jan_1st Don’t wanna lie",
     "date": "2024. 1. 16.",
     "log_no": "223324595497",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Dec_1st",
@@ -253,7 +315,9 @@
     "title": "23_Dec_1st 인생은 재밌어질 거야",
     "date": "2024. 1. 4.",
     "log_no": "223312198897",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Nov_1st",
@@ -261,7 +325,9 @@
     "title": "23_Nov_1st 이제 어디 안 가",
     "date": "2023. 11. 27.",
     "log_no": "223275750980",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Oct_3rd",
@@ -269,7 +335,9 @@
     "title": "23_Oct_3rd 불안할 때마다 손깍지를 꽉 낄게",
     "date": "2023. 10. 30.",
     "log_no": "223251004825",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Oct_2nd",
@@ -277,7 +345,9 @@
     "title": "23_Oct_2nd Paint The Town Red",
     "date": "2023. 10. 11.",
     "log_no": "223234123792",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Oct_1st",
@@ -285,7 +355,9 @@
     "title": "23_Oct_1st 아슬히 고개 내민 내게 인사를 건네줘요",
     "date": "2023. 10. 7.",
     "log_no": "223230668775",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Sep_1st",
@@ -293,7 +365,9 @@
     "title": "23_Sep_1st 춤을 추며 개강이랑 싸울 거야",
     "date": "2023. 9. 4.",
     "log_no": "223202436796",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Aug_1st",
@@ -301,7 +375,9 @@
     "title": "23_Aug_1st 지난날은 다 잊어버리고",
     "date": "2023. 8. 17.",
     "log_no": "223186413553",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Jul_1st",
@@ -309,7 +385,9 @@
     "title": "23_Jul_1st 사랑과 자아",
     "date": "2023. 7. 25.",
     "log_no": "223165394597",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Jun_2nd",
@@ -317,7 +395,9 @@
     "title": "23_Jun_2nd 행복했다가 웃겼다가 우울했다가 극복",
     "date": "2023. 7. 3.",
     "log_no": "223145399604",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_Jun_1st",
@@ -325,7 +405,9 @@
     "title": "23_Jun_1st",
     "date": "2023. 6. 27.",
     "log_no": "223140509558",
-    "status": "pending"
+    "status": "skip",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_May_3rd",
@@ -333,7 +415,10 @@
     "title": "23_May_3rd 5월이 벌써 끝났다니…",
     "date": "2023. 5. 31.",
     "log_no": "223116988872",
-    "status": "pending"
+    "status": "skip",
+    "youtube_url": "https://www.youtube.com/playlist?list=PLQ4QciQVmUug5ZP1CGE4dX9pFnco381fR",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_May_2nd",
@@ -341,7 +426,10 @@
     "title": "23_May_2nd 질린 듯하다가도어느 날 우연히 다시 듣고는 다시 빠지게 되어버리는",
     "date": "2023. 5. 24.",
     "log_no": "223110271787",
-    "status": "pending"
+    "status": "skip",
+    "youtube_url": "https://www.youtube.com/playlist?list=PLQ4QciQVmUugz12biOZl3V3N2u9g2G-pq",
+    "validation_status": "mismatch",
+    "joined_count": 0
   },
   {
     "playlist_key": "23_May_1st",
@@ -349,6 +437,9 @@
     "title": "23_May_1st 장르도 없고 맥락도 없는 플레이리스트 공유",
     "date": "2023. 5. 7.",
     "log_no": "223095620652",
-    "status": "pending"
+    "status": "skip",
+    "youtube_url": "https://www.youtube.com/playlist?list=PLQ4QciQVmUuikH4gioC9x72W-9qoIANNk",
+    "validation_status": "mismatch",
+    "joined_count": 0
   }
 ]

@@ -1,0 +1,63 @@
+{
+  "playlist_key": "25_Dec_2nd",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugzUdc-pysoQIp9TUNLRdQS",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224166902602"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "rjNeYjJZCRg",
+      "youtube_title": "Shame",
+      "youtube_channel": "윤지영 / Whys Young",
+      "lyric_lines": [
+        "다만 묻고 싶은 게 있어 근데 하지 않는 게 좋겠어"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "iMQxVrgLdsc",
+      "youtube_title": "So so (그 정도 쯤이야)",
+      "youtube_channel": "GIRIBOY",
+      "lyric_lines": [
+        "해야할게 많은것만 같지만 뭐를 해야할지 모르겠어"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "VNAVaKQmGbs",
+      "youtube_title": "Always With You",
+      "youtube_channel": "안희수 Ahn Heesu",
+      "lyric_lines": [
+        "우리 매일 마음껏 미끄러져 보자"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "7pfX1OKqP80",
+      "youtube_title": "Everglow",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "the light that you left me will evergrow"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "gm-Y9idMMQ4",
+      "youtube_title": "The Scientist",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "take me back to the start"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 5,
+    "lyric_line_count": 5,
+    "joined_count": 5,
+    "status": "ok",
+    "notes": "trailing 9줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

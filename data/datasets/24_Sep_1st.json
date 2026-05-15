@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Sep_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUug7gzEEXr4nJJ6_Xf2z7hET",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223605013258"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "c6AMq4708jc",
+      "youtube_title": "Sangsu station",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "왜냐고는 내게 묻지 말아요"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "jZyKcwGoQpM",
+      "youtube_title": "Realize",
+      "youtube_channel": "Silica Gel 실리카겔",
+      "lyric_lines": [
+        "다시 돌아갈 순 없을 거라고 난 생각해"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "Q0TEUMPIhk8",
+      "youtube_title": "Paradise",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "When she was just a girl, she expected the world"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "JeuZ5RCgvwM",
+      "youtube_title": "비누 (비누)",
+      "youtube_channel": "BIBI",
+      "lyric_lines": [
+        "머릿속에 어떤 것이 들어있는지 모르겠다"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "YFzSm6G7GqI",
+      "youtube_title": "INEEDYOURLOVE",
+      "youtube_channel": "Loco",
+      "lyric_lines": [
+        "창피해도 그대로"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "Ickos1VMnDk",
+      "youtube_title": "Click Me (Feat. Dok2)",
+      "youtube_channel": "Zion.T",
+      "lyric_lines": [
+        "망설이지 않아 바로 흘러"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "aJRmx9DZAXQ",
+      "youtube_title": "Summer",
+      "youtube_channel": "The Volunteers",
+      "lyric_lines": [
+        "Don’t you let me slip away When I fight for silly things"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 2줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

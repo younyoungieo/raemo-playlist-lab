@@ -1,0 +1,90 @@
+{
+  "playlist_key": "25_Oct_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuj2zrQnY5iinQLKTvktt2jH",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224054168645"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "IJnjYpgSfjQ",
+      "youtube_title": "Delicate",
+      "youtube_channel": "Taylor Swift",
+      "lyric_lines": [
+        "You must like me for me"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "W40IWdda0IU",
+      "youtube_title": "call it the end",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "Do we have a future"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "gu0B7eGU0iw",
+      "youtube_title": "toxic till the end",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "Honestly impressive, you had me participatin’"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "cMAMpYwP9zQ",
+      "youtube_title": "Goodbye My Baby - Sped Up",
+      "youtube_channel": "Jace June",
+      "lyric_lines": [
+        "“Love is rare, you best enjoy it”"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "T27BUgDpcL0",
+      "youtube_title": "Spring Rain (봄비)",
+      "youtube_channel": "장범준",
+      "lyric_lines": [
+        "주루루 루루루 주루루 루루루"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "HC9XN6KBVVE",
+      "youtube_title": "사랑이라 했던 말 속에서",
+      "youtube_channel": "캔트비블루 can't be blue",
+      "lyric_lines": [
+        "너를 내 품에 안게 되면 내 가슴에 칼을 꽂아줘"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "1fAGyOu7xeE",
+      "youtube_title": "Let's Not Love Each Other (우리서로사랑하지는말자)",
+      "youtube_channel": "GIRIBOY",
+      "lyric_lines": [
+        "기분이 좀 나쁘지만 나쁜 마음이 좀 아프지만"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "XZ23-VX3JpA",
+      "youtube_title": "How To Go On",
+      "youtube_channel": "한로로 HANRORO",
+      "lyric_lines": [
+        "넌 나를 사랑해 줘야 해 난 너를 사랑해"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

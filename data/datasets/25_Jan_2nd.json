@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Jan_2nd",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUughufDkxjvPzzEl6BcwS_mG",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223746252951"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "nbcXvlEa7Wk",
+      "youtube_title": "Happiness is a butterfly",
+      "youtube_channel": "Lana Del Rey",
+      "lyric_lines": [
+        "I just wanna dance with you"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "d_wGvrkyyUo",
+      "youtube_title": "nite",
+      "youtube_channel": "데이먼스 이어 DAMONS YEAR",
+      "lyric_lines": [
+        "너의 온도보다 내가 차가워서 도망갔니"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "3xerxZ3gLnc",
+      "youtube_title": "사랑이란 말이 어울리는 사람 (사말어사) The One I Love",
+      "youtube_channel": "장범준",
+      "lyric_lines": [
+        "이런 애틋한 감정이 나는 너무나 좋아요"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "16KSivdIGjQ",
+      "youtube_title": "Sticky",
+      "youtube_channel": "Tyler, The Creator",
+      "lyric_lines": [
+        "I am the better me"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "hCcwCv3G1FQ",
+      "youtube_title": "St. Chroma",
+      "youtube_channel": "Tyler, The Creator",
+      "lyric_lines": [
+        "It’s not on you, it’s in you"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "My4AY_zB608",
+      "youtube_title": "Intro to Glory",
+      "youtube_channel": "KB",
+      "lyric_lines": [
+        "Ooh"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "XVrO_3lnbig",
+      "youtube_title": "오늘만 I LOVE YOU",
+      "youtube_channel": "BOYNEXTDOOR",
+      "lyric_lines": [
+        "다 별거 없는 거잖아"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

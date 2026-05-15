@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_May_2nd",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuiN0IbfqlDq9SGbWEMV5heD",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223469367147"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "PfpERIQXIrk",
+      "youtube_title": "A Little Girl",
+      "youtube_channel": "OHHYUK",
+      "lyric_lines": [
+        "내 곁에만 머물러요 떠나면 안돼요"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "BCaIO1yELbQ",
+      "youtube_title": "Spring Snow",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "어느 곳에 있어도 그 끝은 항상 너인걸"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "Aon-n3hLSto",
+      "youtube_title": "Don’t Forget (Feat. TAEYEON)",
+      "youtube_channel": "Crush",
+      "lyric_lines": [
+        "너와 나 언젠가 남이 되어도 잊어버리지마"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "Lk3UlEyIW84",
+      "youtube_title": "Always",
+      "youtube_channel": "Daniel Caesar",
+      "lyric_lines": [
+        "And maybe I'm wrong for writing this song Losing my head over you"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "ESWcsKySnNs",
+      "youtube_title": "Sudden Shower",
+      "youtube_channel": "ECLIPSE - Topic",
+      "lyric_lines": [
+        "잠시 동안 적시는 그런 비가 아니길"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "pKINYSz7w-A",
+      "youtube_title": "Ididn't know yet (그땐 미처 알지 못했지)",
+      "youtube_channel": "Lee Juck - Topic",
+      "lyric_lines": [
+        "내가 버린 건 어떠한 사랑인지"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "-UGbOqadHb0",
+      "youtube_title": "Ladies and gentlemen we are floating in space",
+      "youtube_channel": "Spiritualized",
+      "lyric_lines": [
+        "All I want in life's a little bit of love to take the pain away"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 6줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

@@ -54,7 +54,19 @@ def build_dataset(
     }
     skip_positions: set[int] = set(corrections.get("skip_positions", []))
 
+    # Full lyric_lines override: replaces blog extraction entirely
+    if "lyric_lines" in corrections:
+        lyric_lines = corrections["lyric_lines"]
+
     yt_count = len(tracks)
+    notes_parts: list[str] = []
+
+    # Truncate trailing non-lyric content when blog has more lines than tracks
+    if len(lyric_lines) > yt_count:
+        excess = len(lyric_lines) - yt_count
+        lyric_lines = lyric_lines[:yt_count]
+        notes_parts.append(f"trailing {excess}줄 제거")
+
     line_count = len(lyric_lines)
     joined_count = min(yt_count, line_count)
 
@@ -63,37 +75,41 @@ def build_dataset(
         t = tracks[i]
         pos = t["position"]
         if pos in skip_positions:
-            lyric = ""
+            parts: list[str] = []
         elif pos in lyric_overrides:
-            lyric = lyric_overrides[pos] or ""
+            raw = lyric_overrides[pos]
+            if raw is None:
+                parts = []
+            elif isinstance(raw, list):
+                parts = [p.strip() for p in raw if p]
+            else:
+                parts = [p.strip() for p in str(raw).split(" / ") if p.strip()]
         else:
-            lyric = lyric_lines[i]
+            raw_line = lyric_lines[i]
+            parts = [p.strip() for p in raw_line.split(" / ")] if raw_line else []
         joined.append(
             TrackItem(
                 position=pos,
                 youtube_video_id=t["video_id"],
                 youtube_title=t["title"],
                 youtube_channel=t["channel"],
-                lyric_line=lyric,
+                lyric_lines=parts,
             )
         )
 
     unmatched_youtube = [tracks[i]["position"] for i in range(joined_count, yt_count)]
-    unmatched_lyrics = lyric_lines[joined_count:]
+    unmatched_lyrics: list[str] = []
 
-    notes = ""
-    if yt_count != line_count:
-        diff = abs(yt_count - line_count)
-        side = "YouTube" if yt_count > line_count else "blog"
-        hint = "가사 누락 의심" if yt_count > line_count else "비가사 텍스트 or 다줄 가사 의심"
-        notes = f"{side} has {diff} extra item(s). ({hint}) Joined up to position {joined_count}."
+    if yt_count > line_count:
+        diff = yt_count - line_count
+        notes_parts.append(f"YouTube has {diff} extra tracks (가사 누락 의심)")
 
     validation = ValidationResult(
         youtube_count=yt_count,
         lyric_line_count=line_count,
         joined_count=joined_count,
         status="ok" if yt_count == line_count else "mismatch",
-        notes=notes,
+        notes=" | ".join(notes_parts),
         unmatched_youtube=unmatched_youtube,
         unmatched_lyrics=unmatched_lyrics,
     )

@@ -1,0 +1,90 @@
+{
+  "playlist_key": "25_Dec_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuhrwP0Gtkis55f3viP2McBg",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224106331503"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "hDgPW4kIdUI",
+      "youtube_title": "Bitch, Don’t Kill My Vibe",
+      "youtube_channel": "Kendrick Lamar",
+      "lyric_lines": [
+        "Sometimes I need to be alone"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "88Iskzf3V3M",
+      "youtube_title": "Border",
+      "youtube_channel": "Release - Topic",
+      "lyric_lines": [
+        "모든 게 그대론데"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "StKmyeRbIws",
+      "youtube_title": "Mouse",
+      "youtube_channel": "Lee go do - Topic",
+      "lyric_lines": [
+        "나는 왜 적막을 견디질 못해"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "5DxNOW3QADE",
+      "youtube_title": "I’ll do that",
+      "youtube_channel": "BOBBY - Topic",
+      "lyric_lines": [
+        "너가 그러라 한다면"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "QxGt54-oh1A",
+      "youtube_title": "Good Goodbye",
+      "youtube_channel": "HWASA",
+      "lyric_lines": [
+        "안녕은 우릴 아프게 하지만"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "NFc438SCPls",
+      "youtube_title": "Don't Cry",
+      "youtube_channel": "Release - Topic",
+      "lyric_lines": [
+        "그때까지만"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "Spu5twRq0SY",
+      "youtube_title": "우리는 같은 음악을 듣고",
+      "youtube_channel": "\b박소은",
+      "lyric_lines": [
+        "언젠가 넌 나를 그리워하지 않는 날이 오겠지만 괜찮아"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "0Remc4lR92o",
+      "youtube_title": "Divorce Papers (이혼서류)",
+      "youtube_channel": "GIRIBOY",
+      "lyric_lines": [
+        "그냥 가 이야이야이야이야"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "trailing 7줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

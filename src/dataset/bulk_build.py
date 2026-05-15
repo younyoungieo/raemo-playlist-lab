@@ -55,7 +55,7 @@ def bulk_build(
             continue
 
         try:
-            youtube_url = fetch_youtube_url_from_blog(blog_url, force_refresh=force_refresh)
+            youtube_url = entry.get("youtube_url") or fetch_youtube_url_from_blog(blog_url, force_refresh=force_refresh)
             if not youtube_url:
                 raise ValueError("블로그에서 YouTube URL을 찾을 수 없음")
             print(f"  YouTube: {youtube_url}")

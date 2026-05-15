@@ -47,14 +47,12 @@ def _print_sidebyside(dataset: Dataset) -> None:
         yt_title = (track.youtube_title[:38] + "..") if track and len(track.youtube_title) > 40 else (track.youtube_title if track else "── (no track) ──")
 
         if pos <= v.joined_count:
-            lyric = track.lyric_line if track else ""
+            lyric = " / ".join(track.lyric_lines) if track else ""
             flag = "✓"
         elif pos <= v.youtube_count:
-            # YouTube has this but blog doesn't
             lyric = "── (가사 없음) ──"
             flag = "⚠ 가사 누락"
         else:
-            # Blog has extra lines beyond youtube count
             extra_idx = pos - v.youtube_count - 1
             lyric = v.unmatched_lyrics[extra_idx] if extra_idx < len(v.unmatched_lyrics) else "?"
             flag = "⚠ 트랙 없음"

@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Jun_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugimXbXoN1SYx3vX6pQYhGs",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223483831811"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "IMwpwzMc2gw",
+      "youtube_title": "all the kids are depressed",
+      "youtube_channel": "Jeremy Zucker",
+      "lyric_lines": [
+        "My natural reaction is that we’re scared"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "Q7F09kpl5ec",
+      "youtube_title": "내일의 우리 Ordinary Days",
+      "youtube_channel": "도경수(DOH KYUNG SOO)",
+      "lyric_lines": [
+        "여전히 울고 웃고 헤매도 Day and night 꿈꾸듯 늘 기다려"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "08WW7xpTNq4",
+      "youtube_title": "말해주라",
+      "youtube_channel": "소수빈 / So Soo Bin",
+      "lyric_lines": [
+        "세상이 등을 돌려도 아무리 괴롭혀도 그냥 괜찮다 말해주라"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "_oWUgfpGi0M",
+      "youtube_title": "Lithium",
+      "youtube_channel": "Nirvana",
+      "lyric_lines": [
+        "I’m so happy ‘cause today I found my friends They’re in my head"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "hgGlDovNMog",
+      "youtube_title": "Englishman In New York",
+      "youtube_channel": "Sting",
+      "lyric_lines": [
+        "I’m a legal alien"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "OhIgBn3Dl9I",
+      "youtube_title": "Champagne Supernova (Remastered)",
+      "youtube_channel": "Oasis",
+      "lyric_lines": [
+        "The world’s spinnin’ round, we don’t know why why why why why"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "uNv_Bu_L6C8",
+      "youtube_title": "Hey Jude",
+      "youtube_channel": "The Beatles",
+      "lyric_lines": [
+        "Take a sad song and make it better"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

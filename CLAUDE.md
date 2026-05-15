@@ -54,7 +54,7 @@ cp .env.example .env  # 필요 시 API 키 설정
       "youtube_video_id": "...",
       "youtube_title": "...",
       "youtube_channel": "...",
-      "lyric_line": "..."
+      "lyric_lines": ["가사 한 줄"]
     }
   ],
   "validation": {

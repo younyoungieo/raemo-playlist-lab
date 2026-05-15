@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Apr_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUujDp8y8vatKnxfzV60PoFwz",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223828825447"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "rp_BqG0khRE",
+      "youtube_title": "Meaningless",
+      "youtube_channel": "밍기뉴 mingginyu",
+      "lyric_lines": [
+        "우리가 만난지 언젠데, 또 완벽한 사랑을 바라고"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "SdahbIukU2g",
+      "youtube_title": "1. 그댈 마주하는건 힘들어 (그마힘)",
+      "youtube_channel": "Busker Busker - Topic",
+      "lyric_lines": [
+        "이런 말을 해도 될진 모르지만"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "_7-Ynbwrk8E",
+      "youtube_title": "H.S.K.T. (Feat. Wonstein)",
+      "youtube_channel": "OfficialLEEHI",
+      "lyric_lines": [
+        "you know what I mean?"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "abwaFowa0xA",
+      "youtube_title": "What The Hell",
+      "youtube_channel": "E SENS",
+      "lyric_lines": [
+        "켕기는 거 없어, 뒤 깨끗해"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "x2GVLf1FPSw",
+      "youtube_title": "If I Were a Boy",
+      "youtube_channel": "Beyoncé",
+      "lyric_lines": [
+        "But you’re just a boy"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "m3mzh7nTfqA",
+      "youtube_title": "Hangover",
+      "youtube_channel": "LEELLAMARZ",
+      "lyric_lines": [
+        "이제 와서 너에게 물어보고 싶어"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "53uNDr4SgDc",
+      "youtube_title": "Remember me (역겹겠지만)",
+      "youtube_channel": "B.I",
+      "lyric_lines": [
+        "날 잊지는 마"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 1줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

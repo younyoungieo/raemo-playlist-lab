@@ -40,9 +40,10 @@ def test_italic_comment_removed():
     assert not any(l.startswith("*") and l.endswith("*") for l in lines)
 
 
-def test_bracket_comment_removed():
+def test_bracket_comment_kept_by_default():
+    # remove_bracket_comment is off by default — short lyrics like "(let's go)" are valid
     lines = clean_lines(SAMPLE_BLOG_TEXT)
-    assert "(출처: 작사가 미상)" not in lines
+    assert "(출처: 작사가 미상)" in lines
 
 
 def test_number_prefix_stripped():
@@ -52,9 +53,10 @@ def test_number_prefix_stripped():
     assert not any(l.startswith("1.") or l.startswith("2.") for l in lines)
 
 
-def test_short_line_removed():
+def test_short_line_kept():
+    # No min_length filter — short lyrics like "Ooh" are valid
     lines = clean_lines(SAMPLE_BLOG_TEXT)
-    assert "짧" not in lines
+    assert "짧" in lines
 
 
 def test_order_preserved():
@@ -62,13 +64,6 @@ def test_order_preserved():
     idx1 = lines.index("우리 둘이서 걷는 이 길")
     idx2 = lines.index("차가운 바람이 불어와도")
     assert idx1 < idx2
-
-
-def test_custom_min_length():
-    # "짧" is 1 char; min_length=1 lets it through
-    cfg = CleanConfig(min_length=1)
-    lines = clean_lines(SAMPLE_BLOG_TEXT, cfg)
-    assert "짧" in lines
 
 
 def test_empty_input():

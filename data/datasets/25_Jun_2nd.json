@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Jun_2nd",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUujHVVRVkFwgBHrX025gdIxw",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223911535246"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "1CJvsGeu6nc",
+      "youtube_title": "harmless (Feat. CHANMINA)",
+      "youtube_channel": "BOBBY - Topic",
+      "lyric_lines": [
+        "난 걍 무중력"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "A7nnGd7q0bA",
+      "youtube_title": "바람 (FREEDOM)",
+      "youtube_channel": "iKON",
+      "lyric_lines": [
+        "불어라 바람 바람 바람"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "9QMaUl26Qzk",
+      "youtube_title": "BASTARD (feat. CHANGMO)",
+      "youtube_channel": "HAON - Topic",
+      "lyric_lines": [
+        "시바 다들 뭐라도 된다는 듯이 무대 위에서 leak their song"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "u2LMzgzfTn0",
+      "youtube_title": "B**ch (Feat. CHANGMO)",
+      "youtube_channel": "LEELLAMARZ",
+      "lyric_lines": [
+        "우린 또다시 다치고 남겨, 새로운 상처"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "XoW0tah_ulw",
+      "youtube_title": "I turned off the TV... (feat. Yoon Mirae & 10cm)",
+      "youtube_channel": "Leessang",
+      "lyric_lines": [
+        "널 너무나 사랑해서"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "BKipkPUYTwQ",
+      "youtube_title": "Ur SOUL Ur BodY (feat. DK)",
+      "youtube_channel": "BOBBY - Topic",
+      "lyric_lines": [
+        "나를 미치게 만드는 것을 순서대로 곳을 순서대로 말하면 Ur soul ur body"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "LGKic8Ay9Ys",
+      "youtube_title": "PLAY",
+      "youtube_channel": "LUCY ISLAND",
+      "lyric_lines": [
+        "많은 사람들 사이를 안 닿고 지나기 남모르게 은밀히 자리에 앉기"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 8줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

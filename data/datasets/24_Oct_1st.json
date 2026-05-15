@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Oct_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuiUC7H0TnmEgHKk7cY3QJ8O",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223645559089"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "fhCkGKiP95I",
+      "youtube_title": "N95",
+      "youtube_channel": "Kendrick Lamar",
+      "lyric_lines": [
+        "Hello, new world"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "2KajwdpXbEc",
+      "youtube_title": "Trigger",
+      "youtube_channel": "Seori_Official",
+      "lyric_lines": [
+        "I should want, you should want"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "lxLQPl8vnYE",
+      "youtube_title": "No More Encore",
+      "youtube_channel": "브로콜리너마저",
+      "lyric_lines": [
+        "안돼요"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "sdtspSYyQXs",
+      "youtube_title": "Bad Girl Good Girl",
+      "youtube_channel": "missA",
+      "lyric_lines": [
+        "You don’t know me"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "ht5DtmEyZiY",
+      "youtube_title": "그의 바다 His ocean",
+      "youtube_channel": "Yerin Baek",
+      "lyric_lines": [
+        "날 바라봐주고 그대로 날 느껴줘"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "BNLiso1eH28",
+      "youtube_title": "Diamond",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "자기야 우리 이대로도 괜찮은 걸까"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "GcUQtqFFLxg",
+      "youtube_title": "오늘밤은 어둠이 무서워요",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "오늘의 나는 절대 결코 강하지 않아"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

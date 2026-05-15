@@ -14,7 +14,7 @@ class TrackItem(BaseModel):
     youtube_video_id: str
     youtube_title: str
     youtube_channel: str
-    lyric_line: str
+    lyric_lines: list[str]
 
 
 class SourceInfo(BaseModel):

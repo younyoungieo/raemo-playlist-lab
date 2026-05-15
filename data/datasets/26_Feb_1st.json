@@ -1,0 +1,90 @@
+{
+  "playlist_key": "26_Feb_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUujtU4hpAtxU1XaLNU5k13C9",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224199617209"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "97qr0BOdHkc",
+      "youtube_title": "Yin and Yang",
+      "youtube_channel": "ZICO",
+      "lyric_lines": [
+        "We got the Yin and Yang"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "ywWKuk4Xv1w",
+      "youtube_title": "맵고짜고단거 MSG (Feat. 페노메코 PENOMECO)",
+      "youtube_channel": "Dynamicduo - 다이나믹 듀오",
+      "lyric_lines": [
+        "밤마다 밤마다 국밥에 밥 말아"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "sE0tKkHrwJo",
+      "youtube_title": "Break",
+      "youtube_channel": "Beenzino",
+      "lyric_lines": [
+        "내가 하는 말 무슨 말인지 아는 사람 그런 사람 여기 없어? 없으면 됐어"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "pLoQZ8SqUJE",
+      "youtube_title": "First Sight",
+      "youtube_channel": "캔트비블루 can't be blue",
+      "lyric_lines": [
+        "나는 첫 눈에 널 사랑할 수는 없었을까?"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "Ie8tS1515cU",
+      "youtube_title": "A Higher Place",
+      "youtube_channel": "Adam Levine - Topic",
+      "lyric_lines": [
+        "You take me to another space in time"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "FWjKwmqmGyM",
+      "youtube_title": "take it anymore",
+      "youtube_channel": "캔트비블루 can't be blue",
+      "lyric_lines": [
+        "you know I can’t take it anymore"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "Aon-n3hLSto",
+      "youtube_title": "Don’t Forget (Feat. TAEYEON)",
+      "youtube_channel": "Crush",
+      "lyric_lines": [
+        "잊어버리지마 날 잊어버리지마"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "eC9HempRRlg",
+      "youtube_title": "fall",
+      "youtube_channel": "Crush",
+      "lyric_lines": [
+        "넌 알지도 모르겠지만 너무 보고 싶어"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

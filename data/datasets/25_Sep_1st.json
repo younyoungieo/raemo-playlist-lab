@@ -1,0 +1,90 @@
+{
+  "playlist_key": "25_Sep_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuh3PwiOaoF3x4WypMGYNqxj",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224021543179"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "iYmT24Vm6og",
+      "youtube_title": "POST IT (Feat. Jay Park)",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "나타나줘 내 눈앞에"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "qFOMo9iA_PU",
+      "youtube_title": "I Think It’s Love",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "어떻게 그렇게 말해"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "A1cO7wSCSWA",
+      "youtube_title": "우리 사랑은",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "거리를 걷다가 철렁 엎드리곤 해도"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "ZW87VIWGjSc",
+      "youtube_title": "열대야",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "너는 내게 기대지 않고 나는 너를 안지 못했던"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "cubufZWu-OM",
+      "youtube_title": "Don't Let Me Go",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "그대여, 나를 두고 어딜 가오"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "t0NWBw00e1M",
+      "youtube_title": "グッバイバイ",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "ゆらゆら"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "ZnCsZ1QYKA8",
+      "youtube_title": "정류장",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "난 모든 걸 멈춰 세울래"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "0ZCCBPeRVLo",
+      "youtube_title": "롤린 (Rollin`)",
+      "youtube_channel": "",
+      "lyric_lines": [
+        "대체 뭘 고민해 빨리 안아"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

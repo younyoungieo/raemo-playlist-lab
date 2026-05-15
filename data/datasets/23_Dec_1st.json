@@ -1,0 +1,27 @@
+{
+  "playlist_key": "23_Dec_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuh4wKs4559MR7wwUrgxUY6f",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223312198897"
+  },
+  "tracks": [],
+  "validation": {
+    "youtube_count": 9,
+    "lyric_line_count": 0,
+    "joined_count": 0,
+    "status": "mismatch",
+    "notes": "YouTube has 9 extra tracks (가사 누락 의심)",
+    "unmatched_youtube": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "unmatched_lyrics": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Aug_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugYae_e629-2xSMjCRt72fQ",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223541479491"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "T9ELR0wudFM",
+      "youtube_title": "너무 깊이 생각하지마",
+      "youtube_channel": "Kim Kwang Seok",
+      "lyric_lines": [
+        "아주 쉽게, 아주 쉽게 잊을 수 있어"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "StKmyeRbIws",
+      "youtube_title": "Mouse",
+      "youtube_channel": "Lee go do - Topic",
+      "lyric_lines": [
+        "때가 되면 우린 모두 어디론가 사라질 거잖아"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "lgjudfWgB24",
+      "youtube_title": "0310",
+      "youtube_channel": "Yerin Baek",
+      "lyric_lines": [
+        "Leaving is fine"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "U31mUH2DnWk",
+      "youtube_title": "NO PAIN",
+      "youtube_channel": "Silica Gel 실리카겔",
+      "lyric_lines": [
+        "난 난 오늘 떠날 거라고 생각했어 날 미워하지 마"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "PpvnbuEdsAI",
+      "youtube_title": "Ego (미워 (Ego))",
+      "youtube_channel": "Crush",
+      "lyric_lines": [
+        "너 미워"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "APEl6NVRsgc",
+      "youtube_title": "we'll we'll we'll",
+      "youtube_channel": "It's me GRASS 그래쓰",
+      "lyric_lines": [
+        "All we got is time All we got is love"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "Oa-Vc2amuA0",
+      "youtube_title": "Universe",
+      "youtube_channel": "OFFICIAL HIGE DANDISM",
+      "lyric_lines": [
+        "미래가 어떻다든가 이상이 어떻다든가"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

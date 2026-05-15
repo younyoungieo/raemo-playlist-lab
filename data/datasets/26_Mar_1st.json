@@ -1,0 +1,90 @@
+{
+  "playlist_key": "26_Mar_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuiplmdQyzq3FTRAMYvE8g1f",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224239171060"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "kC6DuRAnGzI",
+      "youtube_title": "Hate you",
+      "youtube_channel": "Yerin Baek",
+      "lyric_lines": [
+        "I’m the only one who truly cares and gives a fuck about you"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "Rg2E1Zme9LI",
+      "youtube_title": "Nice Man",
+      "youtube_channel": "LEELLAMARZ",
+      "lyric_lines": [
+        "난 너의 생각보단 나쁜 사람이야"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "cDRKK6MXmu0",
+      "youtube_title": "Boys Like Girls (Feat. Gist, Jayci yucca)",
+      "youtube_channel": "LEELLAMARZ",
+      "lyric_lines": [
+        "대신 이거 마시면 나랑 사귀는 거야"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "Xg-bDqcS9q4",
+      "youtube_title": "You Don′t Know",
+      "youtube_channel": "Loco",
+      "lyric_lines": [
+        "이기적이지만 그 인연은 아니길 난 빌어"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "2uIKfZZB8FA",
+      "youtube_title": "Don't feel sad",
+      "youtube_channel": "WhiteusedsocksOfficial",
+      "lyric_lines": [
+        "우리는 기억하지 않아도 기억나는 사랑이었어"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "L0yfXovZT_g",
+      "youtube_title": "drinks or coffee",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "I know we can’t say what we mean"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "Z60kQ4J0riM",
+      "youtube_title": "3am",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "The world can roll their eyes, but there’s no use"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "I0Hu7PRF4j0",
+      "youtube_title": "입춘",
+      "youtube_channel": "한로로 HANRORO",
+      "lyric_lines": [
+        "왔으니 이번엔 놓지 말라고"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "trailing 1줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

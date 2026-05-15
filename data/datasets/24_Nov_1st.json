@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Nov_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUujzBFj19vJ_VM9tR1wt5lTw",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223678596755"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "ybQA720eyIE",
+      "youtube_title": "I Don't Wanna Be Okay Without You",
+      "youtube_channel": "Charlie Burg",
+      "lyric_lines": [
+        "But I don’t wanna be okay without you"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "YSJ9_lP5sgI",
+      "youtube_title": "스토커",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "난 왜 이런 사람 이런 모습이고 이런 사랑을 하고"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "77PbORk5TN0",
+      "youtube_title": "Keep Your Head Up Princess",
+      "youtube_channel": "Anson Seabra",
+      "lyric_lines": [
+        "I know it hurts right now but I know you’ll make it home"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "jNYwgodbyNc",
+      "youtube_title": "On The Ground",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "Everything I need is on the ground"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "nujn6wbr-e8",
+      "youtube_title": "As It Was",
+      "youtube_channel": "Harry Styles",
+      "lyric_lines": [
+        "And I’m the one who will stay"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "xwesXZPRadg",
+      "youtube_title": "My Ultimate First Love (부동의 첫사랑)",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "소리쳐 이름을 불러볼까"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "vum2bUJwfkI",
+      "youtube_title": "Adore You",
+      "youtube_channel": "Harry Styles",
+      "lyric_lines": [
+        "Just let me adore you"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

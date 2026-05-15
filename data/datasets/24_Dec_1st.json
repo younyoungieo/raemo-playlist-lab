@@ -1,0 +1,82 @@
+{
+  "playlist_key": "24_Dec_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuhSdBJR077SXzRu2sLncOWF",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223725008803"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "NHJHMj9rZOc",
+      "youtube_title": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE) (낙서 (Feat. 백예린) (Prod. by WOOGIE))",
+      "youtube_channel": "punchnello - Topic",
+      "lyric_lines": [
+        "그게 나였으면"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "I-y_Umlpu18",
+      "youtube_title": "가끔 연락하던 애 (@kyulisme)",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "이젠 앞으로 나아가야 하지, 그래서"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "XVveECQmiAk",
+      "youtube_title": "luther",
+      "youtube_channel": "Kendrick Lamar",
+      "lyric_lines": [
+        "It’s a vibe, do your dance, let ‘em watch"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "1K-o4w0Zoyw",
+      "youtube_title": "dance all night",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "I would dance all night, not care about the heartache in my life",
+        "I would not obsess over all the little things I don’t regret"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "L0yfXovZT_g",
+      "youtube_title": "drinks or coffee",
+      "youtube_channel": "ROSÉ",
+      "lyric_lines": [
+        "I know we can’t say what we mean"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "M12Vsjkw-Xs",
+      "youtube_title": "Please Do Not Lean (Bonus)",
+      "youtube_channel": "Daniel Caesar",
+      "lyric_lines": [
+        "You’re all you need, I’ve seen it, you’re able"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "OwHonodA2hE",
+      "youtube_title": "daisy.",
+      "youtube_channel": "wave to earth",
+      "lyric_lines": [
+        "I’ll just wait for you to bloom"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

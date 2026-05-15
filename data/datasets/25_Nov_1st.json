@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Nov_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuiqaQgg8azdK0K7ryD3EmAP",
+    "blog_post_url": "https://blog.naver.com/janjanjae/224078007826"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "zHMIJxHk4zQ",
+      "youtube_title": "일종의 고백",
+      "youtube_channel": "Lee Young Hoon - Topic",
+      "lyric_lines": [
+        "일종의 고백"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "E4E-rIjfPe0",
+      "youtube_title": "Surf",
+      "youtube_channel": "Mac Miller",
+      "lyric_lines": [
+        "이영훈"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "Rvvesag40Sk",
+      "youtube_title": "Confetti and Balloons",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "서로 다른 마음은 어디로든 다시 흘러갈 테니"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "t479w_5foIs",
+      "youtube_title": "I Love Yuo",
+      "youtube_channel": "WONSTEIN",
+      "lyric_lines": [
+        "Don’t need to be lower, before it’s all over, I promise we’ll figure it out"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "dYHMGICzyPc",
+      "youtube_title": "You And I",
+      "youtube_channel": "2NE1",
+      "lyric_lines": [
+        "아쉬운 것들도 그대로 다 두고서"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "7wJsfALKRR8",
+      "youtube_title": "GO!",
+      "youtube_channel": "CORTIS",
+      "lyric_lines": [
+        "하지만 우린 조금 긴장해야 해"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "FF5Wq1R8PSA",
+      "youtube_title": "지나는 마음에게",
+      "youtube_channel": "Krr",
+      "lyric_lines": [
+        "That I'll never let you go"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "trailing 8줄 제거",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

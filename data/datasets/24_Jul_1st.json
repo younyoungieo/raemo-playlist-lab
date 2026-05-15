@@ -1,0 +1,81 @@
+{
+  "playlist_key": "24_Jul_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUujOQljXVv6Gv2cpPCsRvaWU",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223508461820"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "SyOBz7V5gzE",
+      "youtube_title": "OHIO",
+      "youtube_channel": "Crush",
+      "lyric_lines": [
+        "피곤해 죽겠어 해뜰만하면 또 비가 내려"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "2zIUu0BHdPs",
+      "youtube_title": "Lights On (LIGHTS ON)",
+      "youtube_channel": "Geeks - Topic",
+      "lyric_lines": [
+        "깜깜했던 내 과거와 현재에 Ima put lights on"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "lOSF2vQDPiQ",
+      "youtube_title": "Love Is All",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "아무렴 어때 네가 나를 사랑한다는데"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "wsk95Mq0Cys",
+      "youtube_title": "Small girl (feat. D.O.) (Small girl)",
+      "youtube_channel": "이영지",
+      "lyric_lines": [
+        "Would you guarantee?"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "mMrefw3xMEM",
+      "youtube_title": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "youtube_channel": "이영지",
+      "lyric_lines": [
+        "I don’t give fuck about what you said"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "llY4UtFtrgM",
+      "youtube_title": "잠못드는 밤 비는 내리고 (Sleepless Rainy Night)",
+      "youtube_channel": "Kim Gun Mo - Topic",
+      "lyric_lines": [
+        "슬픈 노래는 듣고 싶지 않아"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "3vlglt5YwAs",
+      "youtube_title": "슬퍼지려 하기전에",
+      "youtube_channel": "COOL - Topic",
+      "lyric_lines": [
+        "오 나의 사랑을 속여가며 웃음지려 한 건 뒤돌아 흘릴 눈물 눈물 때문이야"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

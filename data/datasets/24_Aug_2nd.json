@@ -1,0 +1,83 @@
+{
+  "playlist_key": "24_Aug_2nd",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUugyVRfdpLX0hGLXYrlNbsTO",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223576535483"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "QJ4fmVJOuxU",
+      "youtube_title": "Big Love",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "내 내 내 내 내 큰 사랑은 절대로 엉키지 않아"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "xZ98CY1Vj2A",
+      "youtube_title": "What You Know Bout Love",
+      "youtube_channel": "POP SMOKE",
+      "lyric_lines": [
+        "You get what you please"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "S1QYXMqKnvw",
+      "youtube_title": "Lay It Down",
+      "youtube_channel": "Lloyd",
+      "lyric_lines": [
+        "Lay your head on my pillow"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "ijiLEwx7bl8",
+      "youtube_title": "Got Me Started",
+      "youtube_channel": "Troye Sivan",
+      "lyric_lines": [
+        "(let’s go)"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "o1Bkl27souE",
+      "youtube_title": "My Little Lambs",
+      "youtube_channel": "The Black Skirts",
+      "lyric_lines": [
+        "이제 너는 나를 더 많이 안아줘야 할 거야"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "K3_ap4Z-_8o",
+      "youtube_title": "Tell Me If You Wanna Go Home (Rooftop Mix)",
+      "youtube_channel": "Keira Knightley - Topic",
+      "lyric_lines": [
+        "You don’t have to kill so kind"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "9qnqYL0eNNI",
+      "youtube_title": "Yellow",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "I drew a line for you"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "mismatch",
+    "notes": "YouTube has 1 extra tracks (가사 누락 의심)",
+    "unmatched_youtube": [
+      8
+    ],
+    "unmatched_lyrics": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Jun_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuiJlBU6Ddmc988IrVKeS7Nm",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223892656492"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "qvh74fT4xYY",
+      "youtube_title": "Habbit (Bye Bye) (습관 (Bye Bye))",
+      "youtube_channel": "Rollercoaster - Topic",
+      "lyric_lines": [
+        "그건 너무 어려운 얘기"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "NiErxD8XXp4",
+      "youtube_title": "beginning (시작)",
+      "youtube_channel": "박기영",
+      "lyric_lines": [
+        "난 네게 말하고 싶어, 너를 사랑하고 있다고 모든 것을 네게 주고 싶다고"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "kq79H3OhLu4",
+      "youtube_title": "Come Home",
+      "youtube_channel": "Jace June",
+      "lyric_lines": [
+        "I need you to hold me"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "AyCrypt1pdI",
+      "youtube_title": "Someone You Loved",
+      "youtube_channel": "Lewis Capaldi",
+      "lyric_lines": [
+        "I was getting kinda used to being someone you loved"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "9PjPh56ZUEQ",
+      "youtube_title": "뉴질랜드 New Zealand",
+      "youtube_channel": "래원",
+      "lyric_lines": [
+        "언젠간 비울게"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "RESza8WY1EQ",
+      "youtube_title": "Love Letter",
+      "youtube_channel": "Anthony Lazaro",
+      "lyric_lines": [
+        "I wonder if you miss me"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "TA1W-pHNKl8",
+      "youtube_title": "a thousand years",
+      "youtube_channel": "Christina Perri",
+      "lyric_lines": [
+        "How to be brave?"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

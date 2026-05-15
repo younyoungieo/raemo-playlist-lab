@@ -1,0 +1,81 @@
+{
+  "playlist_key": "25_Jul_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuhVpjJK1LpUJIlad-4B9Gb6",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223936362903"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "oSBSpSOh6lQ",
+      "youtube_title": "Trouble",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "And thought of all the stupid things I'd said"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "1aokooixKIo",
+      "youtube_title": "Sparks",
+      "youtube_channel": "Coldplay",
+      "lyric_lines": [
+        "that's what I'll do"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "FALcp1hLFfM",
+      "youtube_title": "Stay Beautiful",
+      "youtube_channel": "Release - Topic",
+      "lyric_lines": [
+        "넌 그냥 이대로 옆에 있어 주면 돼"
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "5lx_wVC3kBE",
+      "youtube_title": "hercules! (feat. JUSTHIS)",
+      "youtube_channel": "BOBBY - Topic",
+      "lyric_lines": [
+        "Things we don't like 무시무시해, 재밌다면 굳이 굳이 해"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "LLu9XA_nsJI",
+      "youtube_title": "Word to the Wise",
+      "youtube_channel": "Matt Corman",
+      "lyric_lines": [
+        "Word to the wise, I'ma G, you don't know me"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "gQpVyKF_Y9g",
+      "youtube_title": "MUSIC (Feat. LEE CHANHYUK) (MUSIC (Feat. 이찬혁))",
+      "youtube_channel": "BIG Naughty - Topic",
+      "lyric_lines": [
+        "Music (music)"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "b209-VD1hIc",
+      "youtube_title": "솔직하게 (M.U.P)",
+      "youtube_channel": "iKON",
+      "lyric_lines": [
+        "I'm gon make you proud"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 7,
+    "lyric_line_count": 7,
+    "joined_count": 7,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

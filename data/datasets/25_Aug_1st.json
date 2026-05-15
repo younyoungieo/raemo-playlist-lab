@@ -1,0 +1,90 @@
+{
+  "playlist_key": "25_Aug_1st",
+  "source": {
+    "playlist_id": "PLQ4QciQVmUuj_o9ENqnBvoEXKSBbAT-zV",
+    "blog_post_url": "https://blog.naver.com/janjanjae/223989970776"
+  },
+  "tracks": [
+    {
+      "position": 1,
+      "youtube_video_id": "doXpPtU6UoE",
+      "youtube_title": "Hold My Breath",
+      "youtube_channel": "Post Malone",
+      "lyric_lines": [
+        "Please don't leave"
+      ]
+    },
+    {
+      "position": 2,
+      "youtube_video_id": "Uv63L9SPkZ0",
+      "youtube_title": "catch me",
+      "youtube_channel": "JVKE",
+      "lyric_lines": [
+        "If I fell down right now would you catch me?"
+      ]
+    },
+    {
+      "position": 3,
+      "youtube_video_id": "xZ98CY1Vj2A",
+      "youtube_title": "What You Know Bout Love",
+      "youtube_channel": "POP SMOKE",
+      "lyric_lines": [
+        "\"What you know 'bout love?\""
+      ]
+    },
+    {
+      "position": 4,
+      "youtube_video_id": "u88RDsCikd0",
+      "youtube_title": "Mourning",
+      "youtube_channel": "Post Malone",
+      "lyric_lines": [
+        "Got a lot of shit to say, couldn't fit it in the chorus"
+      ]
+    },
+    {
+      "position": 5,
+      "youtube_video_id": "vbMJf5NIxtU",
+      "youtube_title": "Your Existence",
+      "youtube_channel": "WONSTEIN",
+      "lyric_lines": [
+        "뭘 하고 있을까 넌 알고 있을까"
+      ]
+    },
+    {
+      "position": 6,
+      "youtube_video_id": "BCaIO1yELbQ",
+      "youtube_title": "Spring Snow",
+      "youtube_channel": "10CM Official",
+      "lyric_lines": [
+        "다시 지워진다 해도, all my life is you"
+      ]
+    },
+    {
+      "position": 7,
+      "youtube_video_id": "dT1lzEbjGzc",
+      "youtube_title": "Burn it",
+      "youtube_channel": "LUCY ISLAND",
+      "lyric_lines": [
+        "다시 살아내야 했던 많은 날들은 남김없이 태울 수 있다면"
+      ]
+    },
+    {
+      "position": 8,
+      "youtube_video_id": "FWv5NAcomng",
+      "youtube_title": "Enough Is Enough",
+      "youtube_channel": "Post Malone",
+      "lyric_lines": [
+        "They ran out of lemonade So I shot that vodka straight, anyway"
+      ]
+    }
+  ],
+  "validation": {
+    "youtube_count": 8,
+    "lyric_line_count": 8,
+    "joined_count": 8,
+    "status": "ok",
+    "notes": "",
+    "unmatched_youtube": [],
+    "unmatched_lyrics": []
+  }
+}

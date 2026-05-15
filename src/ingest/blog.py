@@ -60,6 +60,9 @@ def _extract_text(html: str) -> str:
     for selector in _BODY_SELECTORS:
         container = soup.select_one(selector)
         if container:
+            # Remove image captions (se-caption class inside se-section-image)
+            for caption in container.select(".se-caption"):
+                caption.decompose()
             for br in container.find_all("br"):
                 br.replace_with("\n")
             for block in container.find_all(["p", "div", "li"]):
@@ -110,10 +113,11 @@ def _fetch_blog_inner(url: str, *, force_refresh: bool = False) -> tuple[str, st
     text_cache = _cache_path(url)
     html_cache = _html_cache_path(url)
 
-    if text_cache.exists() and html_cache.exists() and not force_refresh:
-        text = text_cache.read_text(encoding="utf-8")
-        youtube_url = extract_youtube_url(html_cache.read_text(encoding="utf-8"))
-        return text, youtube_url
+    if html_cache.exists() and not force_refresh:
+        html = html_cache.read_text(encoding="utf-8")
+        text = _extract_text(html)
+        text_cache.write_text(text, encoding="utf-8")
+        return text, extract_youtube_url(html)
 
     resp = requests.get(url, headers=_HEADERS, timeout=15)
     resp.raise_for_status()
